@@ -1,5 +1,5 @@
 //
-//  AnniversaryAppApp.swift
+//  AnniversaryApp.swift
 //  AnniversaryApp
 //
 //  Created by higurashi on 2026/05/29.
